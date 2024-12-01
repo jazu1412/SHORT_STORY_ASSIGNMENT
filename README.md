@@ -24,6 +24,11 @@ Explore the technical details of this innovative approach:
 A concise and visually engaging summary:
 [Google Slides Presentation](https://docs.google.com/presentation/d/1mTY2NQ45jtvcM95Tys44wLE-0VUHGDDar1uWKg9vAhU/edit?usp=sharing)
 
+### Youtube Video Demo
+Please checkout the Youtube video here:
+[Youtube Video demonstration](https://youtu.be/VHyQ9cA8rdU)
+
+
 
 ## Author
 **Jayasurya Murali**
