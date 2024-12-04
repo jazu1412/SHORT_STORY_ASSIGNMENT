@@ -20,6 +20,10 @@ Dive deeper into the topic with the detailed article:
 Explore the technical details of this innovative approach:
 [Research Paper (arXiv)](https://arxiv.org/pdf/2408.11047)
 
+### Slide Share Presentation
+Presentation in Slide Share :
+[ Slide Share Link](https://www.slideshare.net/slideshow/quantum-machine-learning-algorithms-for-anomaly-detection-1-pptx/273825502)
+
 ### Google Slides Presentation
 A concise and visually engaging summary:
 [Google Slides Presentation](https://docs.google.com/presentation/d/1mTY2NQ45jtvcM95Tys44wLE-0VUHGDDar1uWKg9vAhU/edit?usp=sharing)
@@ -30,6 +34,8 @@ Please checkout the Youtube video here:
 
 ### Google Sheet Link of Short Story Assignment
 [Google Sheet Link](https://docs.google.com/spreadsheets/d/1T0TPmQz79Rp8eoIW_pUPBmBwfYoXjwD_lPWtcbwJbhM/edit?gid=174104810#gid=174104810)
+
+
 
 
 
