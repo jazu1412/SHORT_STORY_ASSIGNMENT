@@ -1,4 +1,4 @@
-# CMPE 255: Short Story Assignment
+# CMPE 255: Short Story Assignment / Author - Jayasurya Murali
 
 ## Overview
 This assignment explores the groundbreaking potential of **Quantum Machine Learning Algorithms** for anomaly detection. By leveraging the principles of quantum mechanics, these algorithms aim to outperform classical machine learning approaches in detecting anomalies, with applications spanning **cybersecurity**, **fraud prevention**, and **scientific research**. The research highlights:
