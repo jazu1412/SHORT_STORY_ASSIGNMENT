@@ -32,6 +32,8 @@ A concise and visually engaging summary:
 Please checkout the Youtube video here:
 [Youtube Video demonstration](https://youtu.be/kPV_2rnE634)
 
+If incase not able to access youtube vide please refer this [google drive video](https://drive.google.com/file/d/1CsYVTCRCJofTuviXihNfDEc26mWai4qq/view?usp=sharing)
+
 ### Google Sheet Link of Short Story Assignment
 [Google Sheet Link](https://docs.google.com/spreadsheets/d/1T0TPmQz79Rp8eoIW_pUPBmBwfYoXjwD_lPWtcbwJbhM/edit?gid=174104810#gid=174104810)
 
